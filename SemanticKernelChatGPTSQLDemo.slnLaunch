@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Debug Both API & Console",
+    "Projects": [
+      {
+        "Path": "API\\API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AskChatGptConsole\\AskChatGptConsole.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
