@@ -1,7 +1,7 @@
 # Semantic Kernel Chat GPT SQL Demo
 Simple demonstration of using a .NET 8 API and Microsoft Semantic Kernel with Chat GPT to have Chat GPT generate and return SQL queries for execution against a local database.  Leverages the sales data in the Adventure Works database using SQL Server Express Local DB. 
 
-In addition, the API demonstrates how to persist chat sessions using a separate database to persist the chat history.  This in turn allows Chat GPT to respond to follow up questions by pushing the chat history back to Chat GPT on follow up questions.
+In addition, the API demonstrates how to persist chat sessions using a separate database.  This in turn allows Chat GPT to respond to follow up questions by pushing the chat history back to Chat GPT on follow up questions.
 
 # Prerequisites
 -Sign up for a Chat GPT API account (https://platform.openai.com/api-keys) and update ChatGptApiKey setting in the appsettings.json in the API project with your api key.
