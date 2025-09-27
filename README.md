@@ -8,6 +8,6 @@ In addition, the API demonstrates how to persist chat sessions using a separate 
 
 -Install SQL Server Express Local DB if not already installed (https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver17)
 
--API should automatically attach the MDFs for Adventure Works and Chat Sessions, but you may have to manually attach these if this fails.
+-API should automatically attach the MDFs for Adventure Works and Chat Sessions, but you may have to manually attach these if this fails (in API/App_Data folder).
 
 <img width="2319" height="674" alt="Screenshot 2025-09-27 111633" src="https://github.com/user-attachments/assets/7aea5a77-940b-4d4d-9821-8e49bf3a00d3" />
