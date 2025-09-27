@@ -10,4 +10,4 @@ In addition, the API demonstrates how to persit chat sessions using a seperate d
 
 -API should automatically attach the MDFs for Adventure Works and Chat Sessions, buit you may have to manually attach these if this fails.
 
-<img width="2319" height="674" alt="Screenshot 2025-09-27 111633" src="https://github.com/user-attachments/assets/8031c893-f35f-4559-9e87-5d03ce558e1d" />
+<img width="2319" height="674" alt="Screenshot 2025-09-27 111633" src="https://github.com/user-attachments/assets/7aea5a77-940b-4d4d-9821-8e49bf3a00d3" />
