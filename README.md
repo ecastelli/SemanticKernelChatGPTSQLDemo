@@ -4,7 +4,7 @@ Simple demonstration of using a .NET 8 API and Microsoft Semantic Kernel with Ch
 In addition, the API demonstrates how to persist chat sessions using a separate database to persist the chat history.  This in turn allows Chat GPT to respond to follow up questions by pushing the chat history back to Chat GPT on follow up questions.
 
 # Prerequisites
--Sign up a Chat GPT API account (https://platform.openai.com/api-keys) and update ChatGptApiKey setting in the appsettings.json in the API project with your api key.
+-Sign up for a Chat GPT API account (https://platform.openai.com/api-keys) and update ChatGptApiKey setting in the appsettings.json in the API project with your api key.
 
 -Install SQL Server Express Local DB if not already installed (https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver17)
 
